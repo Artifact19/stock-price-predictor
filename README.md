@@ -20,6 +20,7 @@ Displays error metrics:
 -> RMSE (Root Mean Squared Error)
 
 Model Architecture:
+
 -> LSTM trained on past 100 days of closing prices to predict the next day's price
 
 -> Data normalized using MinMaxScaler
