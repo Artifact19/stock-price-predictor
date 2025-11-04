@@ -1,5 +1,5 @@
 # stock_price_prediction
-This project is a deep learning based stock price prediction model built using LSTM (Long Short-Term Memory) networks and deployed through Streamlit. It allows users to input a stock ticker (like AAPL or TSLA) and visualizes the actual vs predicted closing prices based on historical stock data from Yahoo Finance.
+This project is a deep learning based stock price prediction model built using LSTM networks while also using a statistical baseline model ARIMA, and made a prototype for both through Streamlit. It allows users to input a stock ticker (like AAPL or TSLA) and visualizes the actual vs predicted closing prices based on historical stock data from Yahoo Finance.
 
 Features:
 
